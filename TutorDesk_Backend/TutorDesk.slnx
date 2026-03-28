@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="TutorDesk.API/TutorDesk.API.csproj" Id="a8b87cde-7c6e-4ed6-8785-c56e5b33b5ce" />
+    <Project Path="TutorDesk.Application/TutorDesk.Application.csproj" Id="0668a9d5-81ee-4dd8-a282-71670ab74147" />
+    <Project Path="TutorDesk.Common/TutorDesk.Common.csproj" Id="7459bf0a-ed8c-4e2c-bdba-5d489effe978" />
+    <Project Path="TutorDesk.Domain/TutorDesk.Domain.csproj" Id="f342f616-dbde-4605-a4da-99c9ae83e540" />
+    <Project Path="TutorDesk.Infrastructure/TutorDesk.Infrastructure.csproj" Id="b831ed95-fd62-4f7d-a6e8-116bf5eb3a2b" />
+  </Folder>
+</Solution>
